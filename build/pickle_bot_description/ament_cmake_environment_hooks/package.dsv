@@ -1,0 +1,4 @@
+source;share/pickle_bot_description/local_setup.bash
+source;share/pickle_bot_description/local_setup.dsv
+source;share/pickle_bot_description/local_setup.sh
+source;share/pickle_bot_description/local_setup.zsh

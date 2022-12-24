@@ -1,0 +1,2 @@
+Invoking command in '/home/tristan/pickle_bot_description/build/pickle_bot_description': /usr/bin/cmake --build /home/tristan/pickle_bot_description/build/pickle_bot_description -- -j8 -l8
+Invoked command in '/home/tristan/pickle_bot_description/build/pickle_bot_description' returned '2': /usr/bin/cmake --build /home/tristan/pickle_bot_description/build/pickle_bot_description -- -j8 -l8
